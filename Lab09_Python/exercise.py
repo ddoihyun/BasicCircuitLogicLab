@@ -1,2 +1,0 @@
-def sayMyName():
-    print("Dohyun")
